@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stagexweb-dev-8a12c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::205930643325:role/amplify-stagexweb-dev-8a12c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::205930643325:role/amplify-stagexweb-dev-8a12c-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-stagexweb-dev-8a12c-deployment",
+      "UnauthRoleName": "amplify-stagexweb-dev-8a12c-unauthRole",
+      "StackName": "amplify-stagexweb-dev-8a12c",
+      "StackId": "arn:aws:cloudformation:us-east-1:205930643325:stack/amplify-stagexweb-dev-8a12c/a3be1bb0-f897-11ef-8049-128178eecf29",
+      "AmplifyAppId": "d1o4aoi7hubslj"
+    },
+    "categories": {
+      "auth": {
+        "stagexweb95a6755c": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}

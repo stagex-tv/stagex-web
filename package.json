@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@stripe/stripe-js": "^6.1.0",
+    "@tailwindcss/oxide": "^4.0.12",
     "aws-amplify": "^6.13.2",
     "next": "15.2.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "stripe": "^17.7.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
